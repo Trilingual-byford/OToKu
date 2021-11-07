@@ -38,7 +38,7 @@ android {
 
 dependencies {
     // UI
-    implementation 'np.com.susanthapa:curved_bottom_navigation:latest_version'
+    implementation 'np.com.susanthapa:curved_bottom_navigation:0.6.5'
 
     // Kotlin
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
